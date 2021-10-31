@@ -1,4 +1,4 @@
-server = 'intel1.database.windows.net'
-ddatabase = 'intellipaat'
+server = 'intellipaatserver.database.windows.net'
+ddatabase = 'intellipaatdatabase'
 username = 'intel'
-password = 'Paat@123'
+password = 'Akshayshukla123@'
